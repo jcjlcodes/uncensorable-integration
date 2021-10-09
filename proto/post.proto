@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package post;
+
+option go_package = "cjl.codes/uncensorable-integration/proto/post";
+
+
+message Post {
+    string message = 1;
+    
+    message Image {
+        bytes bytes = 1;
+        string content_type = 2;
+    }
+    Image image = 2;
+}
