@@ -17,7 +17,7 @@ See for example our [OpenSea collection](https://opensea.io/collections/uncensor
 Verified contracts with full source code at Etherscan:
 
 - Rinkeby [0xf67E3eFd5bfB3990c69cf6E31F44B8767FEdf12a](https://rinkeby.etherscan.io/address/0xf67E3eFd5bfB3990c69cf6E31F44B8767FEdf12a)
-- Mainnet TDB
+- Mainnet [0x0fB864362ACEDEe1AbC15470D732F1C5397978cc](https://etherscan.io/address/0x0fB864362ACEDEe1AbC15470D732F1C5397978cc)
 
 ### How is NFT data stored?
 
