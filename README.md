@@ -2,7 +2,7 @@
 
 ## What?
 
-Uncensorable is digital bulletin board stored on the Ethereum blockchain. Our client is available at https://uncensorable.art (or http://rinkeby.uncensorable.art for the testnet.)
+Uncensorable is digital bulletin board stored on the Polygon blockchain. Our client is available at https://uncensorable.art.
 
 Data stored on the blockchain cannot be deleted or modified. It is immutable, and therefore uncensorable.
 
@@ -14,10 +14,9 @@ See for example our [OpenSea collection](https://opensea.io/collections/uncensor
 
 ### Contract addresses
 
-Verified contracts with full source code at Etherscan:
+Verified contracts with full source code at Polygonscan:
 
-- Rinkeby [0xf67E3eFd5bfB3990c69cf6E31F44B8767FEdf12a](https://rinkeby.etherscan.io/address/0xf67E3eFd5bfB3990c69cf6E31F44B8767FEdf12a)
-- Mainnet [0x0fB864362ACEDEe1AbC15470D732F1C5397978cc](https://etherscan.io/address/0x0fB864362ACEDEe1AbC15470D732F1C5397978cc)
+- Polygon Mainnet [0x0fB864362ACEDEe1AbC15470D732F1C5397978cc](https://polygonscan.com/address/0x0fB864362ACEDEe1AbC15470D732F1C5397978cc)
 
 ### How is NFT data stored?
 
