@@ -8,7 +8,7 @@ Data stored on the blockchain cannot be deleted or modified. It is immutable, an
 
 Every statement becomes an ERC-721 NFT, fully stored on chain. These can be read and displayed by anyone (for example, but not limited to, this webpage.)
 
-See for example our [OpenSea collection](https://opensea.io/collections/uncensorable). Learn more at https://uncensorable.art/about
+See for example our [OpenSea collection](https://opensea.io/collection/uncensorable). Learn more at https://uncensorable.art/about
 
 ## Interacting with the Uncensorable contract
 
